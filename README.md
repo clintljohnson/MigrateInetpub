@@ -114,7 +114,7 @@ MIT License
 
 ## Author
 
-[Your Name/Organization]
+Clint L. Johnson / Mississippi Department of Transportation
 
 ## Contributing
 
